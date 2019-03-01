@@ -1,0 +1,33 @@
+Etape 1 : Lire le PDF et récupérer les éléments nécessaires à la charte graphique. 
+
+Etape 2 : Faire le MCD et MLD
+
+Etape 3 : Faire la base de données avec Phpmyadmin (15mins)
+
+Etape 4 : Réaliser les Wireframes
+Etape 5 : Faire un formulaire pour alimenter la table roles. (10mins)(modifié)
+
+Etape 6 : Faire un formulaire pour alimenter la table utilisateurs.(10mins)(modifié)
+
+Etape 7 : Faire une page pour afficher les utilisateurs. (10mins)(modifié)
+
+Etape 8 : Allez à l'étape 6 et ajouter un 'input' de type select pour donner un rôles à l'utilisateur. Faire le code qui ajoute le rôle lors de la création de l'utilisateur. (20mins).
+Etape 9 : Allez à l'étape 7 et dupliquer la page. Vous devez maintenant faire la même requête mais en prenant en compte les rôles. 1 écran pour cuisiner et 1 écran pour particulier. (15min)
+
+ Etape 10 : Faire un formulaire d'ajout des ateliers.(10mins) 
+
+Etape 11 : Afficher la liste des ateliers disponibles. Avec possibilité de s’inscrire si on est un utilisateur avec le rôle 'particulier'.(30min).(modifié)
+
+Etape 12 : A chaque particulier le nombre places réserver augmente (10mins).
+
+Etape 13 : Activer/ désactiver un atelier. 
+
+Etape 14 : Le cuisiner peut modifier un atelier. L’atelier modifier s’affiche dans la liste des ateliers.
+
+Etape 15 : Le formulaire de création d'utilisateur devient un formulaire d'inscription. On créer un formulaire de connexion. 
+
+Etape 16 : Le cuisinier peut voir uniquement ses ateliers. Il est le seul a pouvoir modifier ses ateliers.
+
+Etape 17 : Faire le design du wireframe avec bootstrap. 
+
+Etape 18 : mettre en ligne
